@@ -1,2 +1,2 @@
-VGG/vgg_model/model_wiehgts.hdf5
-NET50/resnet_model/model_wiehgts.hdf5
+VGG/model_vgg/model_wiehgts.hdf5
+NET50/model_resnet/model_wiehgts.hdf5
